@@ -1,0 +1,59 @@
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\bin\Debug\ClassLibrary.dll
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\bin\Debug\ClassLibrary.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\source\repos\새 폴더\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\source\repos\새 폴더\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\source\repos\새 폴더\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\source\repos\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\PC\source\repos\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\source\repos\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\PC\source\repos\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\source\repos\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\source\repos\새 폴더\WindowsFormsApp1\bin\Debug\Server.exe
+C:\Users\PC\source\repos\새 폴더\WindowsFormsApp1\bin\Debug\Server.pdb
+C:\Users\PC\source\repos\새 폴더\WindowsFormsApp1\bin\Debug\Server.exe.config
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\bin\Debug\Server.exe
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\bin\Debug\Server.pdb
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\bin\Debug\Server.exe.config
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\source\repos\1336v0.7\proj_Server\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\source\repos\1336v0.7\proj_Server\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\source\repos\1336v0.7\proj_Server\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\source\repos\1336v0.7\proj_Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\1336v0.7\proj_Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\source\repos\1336v0.7\proj_Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\1336v0.7\proj_Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\1336v0.7\proj_Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\source\repos\1336v0.7\proj_Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\source\repos\1336v0.7\proj_Server\WindowsFormsApp1\obj\Debug\Server.Form1.resources
+C:\Users\PC\source\repos\1336v1.0\proj_Server\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\source\repos\1336v1.0\proj_Server\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\source\repos\1336v1.0\proj_Server\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\source\repos\1336v1.0\proj_Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\1336v1.0\proj_Server\WindowsFormsApp1\obj\Debug\Server.Form1.resources
+C:\Users\PC\source\repos\1336v1.0\proj_Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\source\repos\1336v1.0\proj_Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\1336v1.0\proj_Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\1336v1.0\proj_Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\source\repos\1336v1.0\proj_Server\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

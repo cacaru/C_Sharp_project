@@ -1,0 +1,134 @@
+C:\Users\PC\source\repos\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\PC\source\repos\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\PC\source\repos\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Server\Server\bin\Debug\Server.exe.config
+C:\Users\PC\source\repos\Server\Server\bin\Debug\Server.exe
+C:\Users\PC\source\repos\Server\Server\bin\Debug\Server.pdb
+C:\Users\PC\source\repos\Server\Server\bin\Debug\ClassLibrary.dll
+C:\Users\PC\source\repos\Server\Server\bin\Debug\ClassLibrary.pdb
+C:\Users\PC\source\repos\Server\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\PC\source\repos\Server\Server\obj\Debug\Server.exe
+C:\Users\PC\source\repos\Server\Server\obj\Debug\Server.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\Server\bin\Debug\Server.exe.config
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\Server\bin\Debug\Server.exe
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\Server\bin\Debug\Server.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\Server\bin\Debug\ClassLibrary.dll
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\Server\bin\Debug\ClassLibrary.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\Server\obj\Debug\Server.Form1.resources
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\Server\obj\Debug\Server.exe
+C:\Users\User\Documents\카카오톡 받은 파일\새 폴더\Server\obj\Debug\Server.pdb
+C:\Users\PC\source\repos\새 폴더\Server\bin\Debug\Server.exe.config
+C:\Users\PC\source\repos\새 폴더\Server\bin\Debug\Server.exe
+C:\Users\PC\source\repos\새 폴더\Server\bin\Debug\Server.pdb
+C:\Users\PC\source\repos\새 폴더\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\새 폴더\Server\obj\Debug\Server.Form1.resources
+C:\Users\PC\source\repos\새 폴더\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\PC\source\repos\새 폴더\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\새 폴더\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\새 폴더\Server\obj\Debug\Server.exe
+C:\Users\PC\source\repos\새 폴더\Server\obj\Debug\Server.pdb
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\Server\bin\Debug\Server.exe.config
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\Server\bin\Debug\Server.exe
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\Server\bin\Debug\Server.pdb
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\Server\obj\Debug\Server.Form1.resources
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\Server\obj\Debug\Server.exe
+C:\Users\1\Documents\카카오톡 받은 파일\새 폴더\Server\obj\Debug\Server.pdb
+C:\Users\PC\source\repos\1336v0.7\proj_Server\Server\bin\Debug\Server.exe.config
+C:\Users\PC\source\repos\1336v0.7\proj_Server\Server\bin\Debug\Server.exe
+C:\Users\PC\source\repos\1336v0.7\proj_Server\Server\bin\Debug\Server.pdb
+C:\Users\PC\source\repos\1336v0.7\proj_Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\1336v0.7\proj_Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\PC\source\repos\1336v0.7\proj_Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\PC\source\repos\1336v0.7\proj_Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\1336v0.7\proj_Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\1336v0.7\proj_Server\Server\obj\Debug\Server.exe
+C:\Users\PC\source\repos\1336v0.7\proj_Server\Server\obj\Debug\Server.pdb
+D:\fukkk\1336v0.81\proj_Server\Server\bin\Debug\Server.exe.config
+D:\fukkk\1336v0.81\proj_Server\Server\bin\Debug\Server.exe
+D:\fukkk\1336v0.81\proj_Server\Server\bin\Debug\Server.pdb
+D:\fukkk\1336v0.81\proj_Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\fukkk\1336v0.81\proj_Server\Server\obj\Debug\Server.Form1.resources
+D:\fukkk\1336v0.81\proj_Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\fukkk\1336v0.81\proj_Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\fukkk\1336v0.81\proj_Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\fukkk\1336v0.81\proj_Server\Server\obj\Debug\Server.exe
+D:\fukkk\1336v0.81\proj_Server\Server\obj\Debug\Server.pdb
+C:\Users\User\Downloads\1336v0.9\proj_Server\Server\bin\Debug\Server.exe.config
+C:\Users\User\Downloads\1336v0.9\proj_Server\Server\bin\Debug\Server.exe
+C:\Users\User\Downloads\1336v0.9\proj_Server\Server\bin\Debug\Server.pdb
+C:\Users\User\Downloads\1336v0.9\proj_Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\User\Downloads\1336v0.9\proj_Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\User\Downloads\1336v0.9\proj_Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\User\Downloads\1336v0.9\proj_Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\User\Downloads\1336v0.9\proj_Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\1336v0.9\proj_Server\Server\obj\Debug\Server.exe
+C:\Users\User\Downloads\1336v0.9\proj_Server\Server\obj\Debug\Server.pdb
+C:\unity\1336v0.10\proj_Server\Server\bin\Debug\Server.exe.config
+C:\unity\1336v0.10\proj_Server\Server\bin\Debug\Server.exe
+C:\unity\1336v0.10\proj_Server\Server\bin\Debug\Server.pdb
+C:\unity\1336v0.10\proj_Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\unity\1336v0.10\proj_Server\Server\obj\Debug\Server.Form1.resources
+C:\unity\1336v0.10\proj_Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\unity\1336v0.10\proj_Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\unity\1336v0.10\proj_Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\unity\1336v0.10\proj_Server\Server\obj\Debug\Server.exe
+C:\unity\1336v0.10\proj_Server\Server\obj\Debug\Server.pdb
+C:\Users\PC\source\repos\1336v0.999\proj_Server\Server\bin\Debug\Server.exe.config
+C:\Users\PC\source\repos\1336v0.999\proj_Server\Server\bin\Debug\Server.exe
+C:\Users\PC\source\repos\1336v0.999\proj_Server\Server\bin\Debug\Server.pdb
+C:\Users\PC\source\repos\1336v0.999\proj_Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\1336v0.999\proj_Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\PC\source\repos\1336v0.999\proj_Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\PC\source\repos\1336v0.999\proj_Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\1336v0.999\proj_Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\1336v0.999\proj_Server\Server\obj\Debug\Server.exe
+C:\Users\PC\source\repos\1336v0.999\proj_Server\Server\obj\Debug\Server.pdb
+D:\UNTY\1336v0.9999\proj_Server\Server\bin\Debug\Server.exe.config
+D:\UNTY\1336v0.9999\proj_Server\Server\bin\Debug\Server.exe
+D:\UNTY\1336v0.9999\proj_Server\Server\bin\Debug\Server.pdb
+D:\UNTY\1336v0.9999\proj_Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\UNTY\1336v0.9999\proj_Server\Server\obj\Debug\Server.Form1.resources
+D:\UNTY\1336v0.9999\proj_Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\UNTY\1336v0.9999\proj_Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\UNTY\1336v0.9999\proj_Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\UNTY\1336v0.9999\proj_Server\Server\obj\Debug\Server.exe
+D:\UNTY\1336v0.9999\proj_Server\Server\obj\Debug\Server.pdb
+C:\Users\PC\source\repos\1336v1.0\proj_Server\Server\bin\Debug\Server.exe.config
+C:\Users\PC\source\repos\1336v1.0\proj_Server\Server\bin\Debug\Server.exe
+C:\Users\PC\source\repos\1336v1.0\proj_Server\Server\bin\Debug\Server.pdb
+C:\Users\PC\source\repos\1336v1.0\proj_Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\1336v1.0\proj_Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\PC\source\repos\1336v1.0\proj_Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\PC\source\repos\1336v1.0\proj_Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\1336v1.0\proj_Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\1336v1.0\proj_Server\Server\obj\Debug\Server.exe
+C:\Users\PC\source\repos\1336v1.0\proj_Server\Server\obj\Debug\Server.pdb
+C:\Users\PC\Desktop\proj_Server\Server\bin\Debug\Server.exe.config
+C:\Users\PC\Desktop\proj_Server\Server\bin\Debug\Server.exe
+C:\Users\PC\Desktop\proj_Server\Server\bin\Debug\Server.pdb
+C:\Users\PC\Desktop\proj_Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\proj_Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\PC\Desktop\proj_Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\PC\Desktop\proj_Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\proj_Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\proj_Server\Server\obj\Debug\Server.exe
+C:\Users\PC\Desktop\proj_Server\Server\obj\Debug\Server.pdb
+E:\전공\응소실\proj_Server\Server\bin\Debug\Server.exe.config
+E:\전공\응소실\proj_Server\Server\bin\Debug\Server.exe
+E:\전공\응소실\proj_Server\Server\bin\Debug\Server.pdb
+E:\전공\응소실\proj_Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\전공\응소실\proj_Server\Server\obj\Debug\Server.Form1.resources
+E:\전공\응소실\proj_Server\Server\obj\Debug\Server.Properties.Resources.resources
+E:\전공\응소실\proj_Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+E:\전공\응소실\proj_Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\전공\응소실\proj_Server\Server\obj\Debug\Server.exe
+E:\전공\응소실\proj_Server\Server\obj\Debug\Server.pdb
